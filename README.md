@@ -1,1 +1,2 @@
-# tartaruguinha
+# Tartaruguinha
+Uma brincadeira em python =)
