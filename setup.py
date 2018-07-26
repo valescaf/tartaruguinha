@@ -10,8 +10,8 @@ base = None
 if sys.platform == "win32":
     base = "Win32GUI"
 
-setup(  name = "mindstorms",
+setup(  name = "Tartaruguinha",
         version = "0.1",
-        description = "Olha a Tartaruguinha!",
+        description = "Instalador do aplicativo Tartaruguinha!",
         options = {"build_exe": build_exe_options},
         executables = [Executable("mindstorms.py", base=base)])
